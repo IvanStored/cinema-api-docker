@@ -8,7 +8,7 @@ Django REST Framework.
 Install PostgresSQL and create db
 
 ```
-git clone 
+git clone https://github.com/IvanStored/cinema-api-docker.git
 cd cinema-api-docker
 python -m venv venv
 source venv/bin/activate
